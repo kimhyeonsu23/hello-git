@@ -9,3 +9,4 @@ sum02 = 20
 print(addNum(nim01, num02))
 print("Program ended!")
 print('bye')
+print("main 브랜치에서 라인 추가하고 새로운 커밋생성")
