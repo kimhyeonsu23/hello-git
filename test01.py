@@ -6,4 +6,4 @@ def addNum(a,b):
 num01= 10
 sum02 = 20
 print(addNum(nim01, num02))
-print("Program End!")
+print("Program ended!")
